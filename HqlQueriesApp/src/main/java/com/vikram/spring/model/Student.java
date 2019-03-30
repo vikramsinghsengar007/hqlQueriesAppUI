@@ -14,6 +14,9 @@ public class Student {
 		this.name = name;
 	}
 	
+	
+	
+	private int salary;
 	private long id;
 	private String name;
 }
