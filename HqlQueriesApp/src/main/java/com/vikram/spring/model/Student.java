@@ -17,6 +17,7 @@ public class Student {
 	
 	
 	private int salary;
+	private int salar1y;
 	private long id;
 	private String name;
 }
